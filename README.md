@@ -1,6 +1,6 @@
 # ConcreteMixDesign_C_IS10262
 # Concrete Mix Design Calculator (C Language)
-![Uploading image.png…]()
+
 ## 📌 Description
 This C program estimates the final concrete mix proportion (cement : fine aggregate : coarse aggregate) as per **IS 10262:2019** guidelines.
 
