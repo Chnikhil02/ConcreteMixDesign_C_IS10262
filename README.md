@@ -14,3 +14,4 @@ This C program estimates the final concrete mix proportion (cement : fine aggreg
 1. Clone or download this repository
 2. Compile the `mixdesign.c` file using a C compiler
 3. Run the program
+![Uploading image.png…]()
